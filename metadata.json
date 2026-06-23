@@ -1,0 +1,6 @@
+{
+  "name": "JabaMedia Ai Studio",
+  "description": "Premium AI solutions, website development, mobile apps, and business automation in Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
